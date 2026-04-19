@@ -1,4 +1,4 @@
-# Agney & Adithiya Wedding Website
+# Agney & Adithya Wedding Website
 
 A trendy, stylish, Kerala-inspired wedding invitation website built with React + Vite and prepared for GitHub Pages.
 
@@ -31,7 +31,7 @@ npm run preview
 
 ## Deploy to GitHub Pages
 
-1. Create a GitHub repository named `agney-adithiya-wedding-site`
+1. Create a GitHub repository named `agney-adithya-wedding-site`
 2. Push this project to that repository
 3. Run:
 

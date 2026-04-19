@@ -8,7 +8,7 @@
     "dev": "vite",
     "build": "vite build",
     "preview": "vite preview",
-    "deploy": "npm run build && gh-pages -d dist"
+    "deploy": "npm run build && gh-pages -d dist -r https://github.com/Agney1995/Agney-Adithya-Wedding.git",
   },
   "dependencies": {
     "react": "^18.3.1",

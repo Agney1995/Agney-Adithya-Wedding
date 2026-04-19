@@ -329,10 +329,6 @@ Blessings and love.`
               <a className="whatsapp-btn" href={whatsappUrl} target="_blank" rel="noreferrer">
                 RSVP via WhatsApp
               </a>
-
-              <p className="helper-text">
-                Replace the WhatsApp number inside <code>src/App.jsx</code> before sharing the site.
-              </p>
             </div>
           </div>
         </section>

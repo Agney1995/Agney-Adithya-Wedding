@@ -1,8 +1,9 @@
 {
-  "name": "agney-adithiya-wedding-site",
+  "name": "agney-adithya-wedding-site",
   "private": true,
   "version": "1.0.0",
   "type": "module",
+  "homepage": "https://Agney1995.github.io/Agney-Adithya-Weddinge",
   "scripts": {
     "dev": "vite",
     "build": "vite build",

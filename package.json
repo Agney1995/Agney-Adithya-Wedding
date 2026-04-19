@@ -3,7 +3,7 @@
   "private": true,
   "version": "1.0.0",
   "type": "module",
-  "homepage": "https://Agney1995.github.io/Agney-Adithya-Weddinge",
+  "homepage": "https://github.com/Agney1995/Agney-Adithya-Wedding",
   "scripts": {
     "dev": "vite",
     "build": "vite build",
